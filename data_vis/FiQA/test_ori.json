@@ -1,0 +1,2477 @@
+[
+ {
+  "sentence": "This $BBBY stock options trade would have more than doubled your money https://t.co/Oa0loiRIJL via @TheStreet",
+  "snippets": "['options trade would have more than doubled your money']",
+  "target": "BBBY",
+  "sentiment_score": 0.294,
+  "aspects": "['Stock/Options']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$COST short finally making gains. I will take half my gains at 147",
+  "snippets": "['short finally making gains']",
+  "target": "COST",
+  "sentiment_score": -0.41,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$KO had missed earnings expectations for the last two quarters, so today\u00e2\u0080\u0099s strong results came as a major surprise http://stks.co/d0RHF",
+  "snippets": "['so today\u00e2\u0080\u0099s strong results came as a major surprise']",
+  "target": "KO",
+  "sentiment_score": 0.338,
+  "aspects": "['Corporate/Financial/Financial Results/Earnings/Earnings Beat']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "#Fintech provider $CAFN Cachet Financial Solutions Surging Forward today post earnings Up +13.26% https://t.co/9BJ3csk2i9 $JKHY $FISV #Momo",
+  "snippets": "['Surging Forward today post earnings']",
+  "target": "CAFN",
+  "sentiment_score": 0.418,
+  "aspects": "['Corporate/Financial']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Daily Mail owner considering Yahoo bid $yhoo ,up 2,05% https://t.co/extZr1riyP",
+  "snippets": "['Daily Mail owner considering Yahoo bid']",
+  "target": "YHOO",
+  "sentiment_score": 0.288,
+  "aspects": "['Corporate/M&A']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "SAB's Chairman Digs In With Board Divided on InBev Offer",
+  "snippets": "['Digs In With Board Divided on InBev Offer']",
+  "target": "SABMiller",
+  "sentiment_score": 0.016,
+  "aspects": "['Corporate/Reputation/Dispute']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger",
+  "snippets": "['Admiral blows hot and cold']",
+  "target": "Friends Life",
+  "sentiment_score": 0.053,
+  "aspects": "['Stock/Price Action/Volatility/Stock Volatility']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "BRIEF-Legal & General's retirement business books 4 billion stg H1 sales",
+  "snippets": "['books 4 billion stg H1 sales']",
+  "target": "Legal & General",
+  "sentiment_score": 0.252,
+  "aspects": "['Corporate/Sales']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Ocwen Reaches Settlement With California Regulator",
+  "snippets": "['Settlement With California Regulator']",
+  "target": "Ocwen",
+  "sentiment_score": 0.171,
+  "aspects": "['Corporate/Legal/Settlement']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",
+  "snippets": "['settles oil spill-related claims']",
+  "target": "BP",
+  "sentiment_score": -0.121,
+  "aspects": "['Corporate/Legal/Settlement']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$CRUS Upgraded to a buy by Alpha Street Research",
+  "snippets": "['Upgraded to a buy']",
+  "target": "CRUS",
+  "sentiment_score": 0.715,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$DNN picked some up, like this going into 2014",
+  "snippets": "['picked some up, like this going into 2014']",
+  "target": "DNN",
+  "sentiment_score": 0.653,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Berkshire Hathaway names Kara Raiguel to lead General Re unit",
+  "snippets": "['names Kara Raiguel to lead General Re unit']",
+  "target": "Berkshire",
+  "sentiment_score": 0.077,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "Tesco leads leap in FTSE 100; Marks & Spencer drops",
+  "snippets": "['Tesco leads leap in FTSE 100; ']",
+  "target": "Tesco",
+  "sentiment_score": 0.389,
+  "aspects": "['Stock/Technical Analysis/Trend/Trending up']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "RT @tomhend777 $MU needs to hold here -Broken for now. Needs big flush. Still not technically oversold so now big bounce yet",
+  "snippets": "['Still not technically oversold so now big bounce yet']",
+  "target": "MU",
+  "sentiment_score": -0.046,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "$GOOGL is setting up above its 50-day moving average. https://t.co/tTm9RnFoXJ",
+  "snippets": "['is setting up above its 50-day moving average']",
+  "target": "GOOGL",
+  "sentiment_score": 0.516,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Irish housebuilder Cairn Homes plans London listing",
+  "snippets": "['London listing']",
+  "target": "Cairn Homes",
+  "sentiment_score": 0.189,
+  "aspects": "['Stock/IPO']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ",
+  "snippets": "['indicating a SELL Rating']",
+  "target": "TSLA",
+  "sentiment_score": -0.485,
+  "aspects": "['Stock/Coverage/AnalystRatings/Downgrade']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$OSUR up 33% since 6/25 buy signal. resistance 5.33 - expect 1. pullback 2nd half of day or 2. break abov 5.33 & continue rally for 4-5 days",
+  "snippets": "['up 33% since 6/25 buy signa']",
+  "target": "OSUR",
+  "sentiment_score": 0.552,
+  "aspects": "['Stock/Signal/Buy Signal']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Long $GPRO for a brealout trade",
+  "snippets": "['Long']",
+  "target": "GPRO",
+  "sentiment_score": 0.594,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$NFLX small pos, short 180 wkly puts.",
+  "snippets": "['small pos, short 180 wkly puts.']",
+  "target": "NFLX",
+  "sentiment_score": -0.597,
+  "aspects": "['Stock/Options/Strategies/Bear Put Spread']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$SLV -4.44% at 18 now AWFUL, down from 42.50",
+  "snippets": "['AWFUL, down from 42.50']",
+  "target": "SLV",
+  "sentiment_score": -0.591,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Investors Remain Skeptical About Shell-BG Deal",
+  "snippets": "['Investors Remain Skeptical About Shell-BG Deal']",
+  "target": "Shell",
+  "sentiment_score": -0.266,
+  "aspects": "['Corporate/Rumors/Rumors']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "easyJet leads Britain's FTSE lower as global bond rout resumes",
+  "snippets": "['leads Britain's FTSE lower']",
+  "target": "easyJet",
+  "sentiment_score": -0.495,
+  "aspects": "['Market/Volatility']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "UPDATE 1-BP shareholders back more disclosure on climate change risks",
+  "snippets": "['shareholders back more disclosure on climate change risks']",
+  "target": "BP",
+  "sentiment_score": 0.037,
+  "aspects": "['Corporate/Risks']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "5-star analyst @brianwieser from Pivotal Research upgraded rating on $GOOGL to BUY. Brian has a 79% success rate https://t.co/t0dn02EOH5",
+  "snippets": "['upgraded rating']",
+  "target": "GOOGL",
+  "sentiment_score": 0.561,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil",
+  "snippets": "['as sole legal seller of Libyan oil']",
+  "target": "Glencore",
+  "sentiment_score": 0.037,
+  "aspects": "['Corporate/Legal']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "Fastenal misses by $0.01, misses on revenue $FAST #NYSE https://t.co/63JHQ7pwMN",
+  "snippets": "['misses on revenue']",
+  "target": "FAST",
+  "sentiment_score": -0.374,
+  "aspects": "['Corporate/Financial/Financial Results']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$NIHD insiders got this one wrong. Looking for bottom. Rsi under 30",
+  "snippets": "['Looking for bottom. Rsi under 30']",
+  "target": "NIHD",
+  "sentiment_score": -0.202,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "AstraZeneca's Lung Cancer Drug Tagrisso Gets FDA Approval",
+  "snippets": "['Tagrisso Gets FDA Approval']",
+  "target": "AstraZeneca",
+  "sentiment_score": 0.393,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "looks like a big feb 18-22 $put spread on $cree.  Last quarter 0% YoY rev growth trading @ 24x earnings.  I may try a short.",
+  "snippets": "['I may try a short.']",
+  "target": "CREE",
+  "sentiment_score": -0.352,
+  "aspects": "['Stock/Price Action/Bearish/Bear Position']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Miners Meltdown as BHP to Rio Tinto Sink in Commodities Rout",
+  "snippets": "['Rio Tinto Sink in Commodities Rout']",
+  "target": "Rio Tinto",
+  "sentiment_score": -0.665,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behaviour']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty $SBUX https://t.co/Xk6lZ3UI3K",
+  "snippets": "['Digital Strategy To Drive Significant Growth With Customer Loyalty']",
+  "target": "SBUX",
+  "sentiment_score": 0.388,
+  "aspects": "['Corporate/Strategy']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",
+  "snippets": "['Traffic Up']",
+  "target": "Aer Lingus",
+  "sentiment_score": 0.284,
+  "aspects": "['Corporate/Sales']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",
+  "snippets": "['Should you buy\u00e2\u0080\u00a6. following today's news?']",
+  "target": "Dunelm Group plc",
+  "sentiment_score": 0.14,
+  "aspects": "['Corporate/Rumors/Rumors']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Deutsche Bank cuts $SBUX",
+  "snippets": "['Deutsche Bank cuts']",
+  "target": "SBUX",
+  "sentiment_score": -0.539,
+  "aspects": "['Stock/Coverage/AnalystRatings/Downgrade']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Saudi Aramco, Shell plan to break up Motiva, divide up assets",
+  "snippets": "['Shell plan to break up Motiva, divide up assets']",
+  "target": "Saudi Aramco",
+  "sentiment_score": -0.142,
+  "aspects": "['Corporate/Strategy/Reorganization']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Rolls-Royce to Ensure Compliance After Petrobras Bribery Report",
+  "snippets": "['to Ensure Compliance After Petrobras Bribery Report']",
+  "target": "Rolls-Royce",
+  "sentiment_score": -0.075,
+  "aspects": "['Corporate/Legal/Court Ruling']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US",
+  "snippets": "['AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK']",
+  "target": "Daiichi Sankyo",
+  "sentiment_score": 0.361,
+  "aspects": "['Corporate/Sales/Partnership']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Why $MCD looks set to fall further. http://stks.co/f2fgj",
+  "snippets": "['looks set to fall further']",
+  "target": "MCD",
+  "sentiment_score": -0.545,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Britain's FTSE outperforms Europe, Royal Mail and Tesco rise",
+  "snippets": "['Britain's FTSE outperforms Europe, Royal Mail and Tesco rise']",
+  "target": "Tesco",
+  "sentiment_score": 0.439,
+  "aspects": "['Market/Volatility/Volatility']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$NFLX +1% $104.80 LONG streaming services rapidly outpacing traditional cable",
+  "snippets": "['$NFLX +1% $104.80 LONG']",
+  "target": "NFLX",
+  "sentiment_score": 0.571,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$PLUG Closed short position. Small gain. Not interested in options expiring worthless",
+  "snippets": "['Closed short position. Small gain.']",
+  "target": "PLUG",
+  "sentiment_score": 0.143,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "RT @Cash_Cow $TLT still has a rising RSI & MACD, all this bond buying is signaling some bad moves for the market. $SPY $UUP",
+  "snippets": "['still has a rising RSI & MACD']",
+  "target": "UUP",
+  "sentiment_score": -0.361,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$NFLX VISION : short term consolidation then movement higher http://stks.co/j05uu",
+  "snippets": "['short term consolidation then movement higher']",
+  "target": "NFLX",
+  "sentiment_score": 0.231,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$INVE : SEE YA ABOVE $8",
+  "snippets": "['SEE YA ABOVE $8']",
+  "target": "INVE",
+  "sentiment_score": 0.502,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "AB InBev offers SABMiller $3 billion breakup fee",
+  "snippets": "['offers SABMiller $3 billion breakup fee']",
+  "target": "SAB Miller",
+  "sentiment_score": 0.197,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Citrix Systems Inc $CTXS Position Increased by Mizuho\u00e2\u0080\u00a6 https://t.co/v7Lkq08Flp @ShareStockNews",
+  "snippets": "['Position Increased by Mizuho']",
+  "target": "CTXS",
+  "sentiment_score": 0.529,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$NUGT longer term bullish",
+  "snippets": "['longer term bullish']",
+  "target": "NUGT",
+  "sentiment_score": 0.814,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Loaded up on $bsx yesterday,looking good now. Still think way more upside than downside.",
+  "snippets": "['Still think way more upside than downside.']",
+  "target": "BSX",
+  "sentiment_score": 0.664,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "FDA approves Shire's Vyvanse for binge-eating disorder",
+  "snippets": "['FDA approves Shire's Vyvanse']",
+  "target": "Shire",
+  "sentiment_score": 0.291,
+  "aspects": "['Corporate/Regulatory']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$HAL If bulls lucky enuff to get an upside gap fill, better take it. Wouldn't chase it here. http://stks.co/r12Us",
+  "snippets": "['If bulls lucky enuff to get an upside gap fill,']",
+  "target": "HAL",
+  "sentiment_score": 0.054,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "Short interest increases yet again http://stks.co/e19h via @ryandetrick $SPY",
+  "snippets": "['Short interest increases yet again']",
+  "target": "SPY",
+  "sentiment_score": -0.342,
+  "aspects": "['Stock/Fundamentals/Short Interest Rate']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$BBRY lets see 14+ today",
+  "snippets": "['lets see 14+ today']",
+  "target": "BBRY",
+  "sentiment_score": 0.302,
+  "aspects": "['Stock/Price Action/Future Price/Direction']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Reuters: Green Mountain revenue misses, shares plunge http://stks.co/13mW > $GMCR prints 43.80, market in a foul mood, bad day to disappoint",
+  "snippets": "['Green Mountain revenue misses, shares plunge']",
+  "target": "GMCR",
+  "sentiment_score": -0.668,
+  "aspects": "['Corporate/Financial/Financial Results']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "#Apple up almost 20% from its February lows with very little fanfare. $AAPL",
+  "snippets": "['up almost 20% from its February lows']",
+  "target": "AAPL",
+  "sentiment_score": 0.431,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Shell and BG Shareholders to Vote on Deal at End of January",
+  "snippets": "['Shareholders to Vote on Deal at End of January']",
+  "target": "Shell",
+  "sentiment_score": 0.0,
+  "aspects": "['Corporate/Sales/Deal']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "RBI surprises Street; Sensex pares gains after hitting mount 30k",
+  "snippets": "['Sensex pares gains']",
+  "target": "Sensex",
+  "sentiment_score": -0.216,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "X marks the recall: Tesla recalls #ModelX for faulty 3rd row seat. https://t.co/HSqdoVry07 $TSLA https://t.co/4Cs3CNZEBB",
+  "snippets": "['recalls #ModelX for faulty 3rd row seat']",
+  "target": "TSLA",
+  "sentiment_score": -0.26,
+  "aspects": "['Corporate/Risks/Product Recall']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$QCOR a little pullback is fine but if this erases all of todays gains, I cannot believe the manipulation its capable of",
+  "snippets": "['this erases all of todays gains']",
+  "target": "QCOR",
+  "sentiment_score": -0.169,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Glencore slumps 30 percent as debt fears grow",
+  "snippets": "['debt fears grow']",
+  "target": "Glencore",
+  "sentiment_score": -0.781,
+  "aspects": "['Corporate/Risks']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$TSLA <STUDY the CHARTS> Pullback_Time https://t.co/ZMDG0fb3I7",
+  "snippets": "['study the charts']",
+  "target": "TSLA",
+  "sentiment_score": -0.3,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise",
+  "snippets": "['Shares Rise']",
+  "target": "Standard Chartered",
+  "sentiment_score": 0.556,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behaviour']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "AstraZeneca's patent on asthma drug invalidated by US court",
+  "snippets": "['invalidated by US court']",
+  "target": "AstraZeneca",
+  "sentiment_score": -0.656,
+  "aspects": "['Corporate/Legal']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Is It Worth Investing In Tesco PLC And Prudential plc Now?",
+  "snippets": "['Investing In Tesco PLC And Prudential plc Now?']",
+  "target": "Tesco PLC",
+  "sentiment_score": 0.161,
+  "aspects": "['Corporate/Strategy/Investment']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "NYSE owner ICE considers offer for LSE",
+  "snippets": "['considers offer for']",
+  "target": "LSE",
+  "sentiment_score": 0.396,
+  "aspects": "['Corporate/Rumors/Scoop']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$ESI on lows, down $1.50 to $2.50 BK a real possibility",
+  "snippets": "['on lows, down $1.50 to $2.50']",
+  "target": "ESI",
+  "sentiment_score": -0.465,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$QIHU totally missed this one, was about to jump in on that 60 break test but didn't, congrats shorts",
+  "snippets": "['congrats shorts']",
+  "target": "QIHU",
+  "sentiment_score": -0.494,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Morrisons and Debenhams surprise City with Christmas bounce back",
+  "snippets": "['with Christmas bounce back']",
+  "target": "Debenhams",
+  "sentiment_score": 0.573,
+  "aspects": "['Stock/Price Action/Volatility']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$AAPL wants lower. up waves getting smaller on the 2 min",
+  "snippets": "['wants lower. up waves getting smaller']",
+  "target": "AAPL",
+  "sentiment_score": -0.37,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$AAPL at pivot area on intraday chart- break here could send this to 50-day SMA, 457.80 http://stks.co/jPbN",
+  "snippets": "['at pivot area on intraday chart']",
+  "target": "AAPL",
+  "sentiment_score": 0.128,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Short on $ATVI from 24.55.",
+  "snippets": "['Short on']",
+  "target": "ATVI",
+  "sentiment_score": -0.745,
+  "aspects": "['Stock/Price Action/Bearish/Bear Position']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally",
+  "snippets": "['METALS-Zinc surges 12 pct after']",
+  "target": "Glencore",
+  "sentiment_score": 0.162,
+  "aspects": "['Market/Volatility']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Academics claim Google Android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/nJx4mnrGLo",
+  "snippets": "['Android two-factor authentication is breakable']",
+  "target": "GOOG",
+  "sentiment_score": -0.309,
+  "aspects": "['Corporate/Risks/Hacks']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "G4S sees profits rise but UK contract problems remain",
+  "snippets": "['contract problems remain']",
+  "target": "G4S",
+  "sentiment_score": 0.252,
+  "aspects": "['Corporate/Risks']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Tesla issues its first Model X recall https://t.co/t1kMqVwhQQ $TSLA",
+  "snippets": "['first Model X recall']",
+  "target": "TSLA",
+  "sentiment_score": -0.287,
+  "aspects": "['Corporate/Risks/Product Recall']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Double bottom with handle buy point of 56.49 $WMT http://chart.ly/ml857v3",
+  "snippets": "['Double bottom with handle buy point']",
+  "target": "WMT",
+  "sentiment_score": 0.654,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Facebook $FB received a Buy rating from Wells Fargo 5-star Analyst Peter Stabler (Wells Fargo) https://t.co/jnB4c9vdCu",
+  "snippets": "['received a Buy rating']",
+  "target": "FB",
+  "sentiment_score": 0.456,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$AMCN pushing highs",
+  "snippets": "['pushing highs']",
+  "target": "AMCN",
+  "sentiment_score": 0.543,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Tesco, Asda sales fall as march of the discounters continues-Kantar",
+  "snippets": "['Asda sales fall as march of the discounters continues']",
+  "target": "Asda",
+  "sentiment_score": -0.356,
+  "aspects": "['Corporate/Sales/Demand Shortfall']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "longed $AMZN 300 @ 189.82",
+  "snippets": "['longed']",
+  "target": "AMZN",
+  "sentiment_score": 0.65,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "@Renatta @Fr0van @kjepeneter @RPTL  Strong close 4 $PLNR  coming",
+  "snippets": "['Strong close']",
+  "target": "PLNR",
+  "sentiment_score": 0.523,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Retail giant Kingfisher reports 'solid' start to the year",
+  "snippets": "['reports 'solid' start to the year']",
+  "target": "Kingfisher",
+  "sentiment_score": 0.368,
+  "aspects": "['Corporate/Company Communication']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$PG Ackman making the big added efficiency argument. betting on operational imporvement in a huge conglomerate can go either way imo.",
+  "snippets": "['making the big added efficiency argument. betting on operational imporvement in a huge conglomerate']",
+  "target": "PG",
+  "sentiment_score": 0.116,
+  "aspects": "['Corporate/Strategy/Business Model']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Ackman, in email, says supports Valeant CEO Pearson",
+  "snippets": "['in email, says supports']",
+  "target": "Valeant",
+  "sentiment_score": 0.166,
+  "aspects": "['Corporate/Company Communication']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "UPDATE 1-EU regulator backs approval for GSK injectable asthma drug",
+  "snippets": "['EU regulator backs approval for GSK']",
+  "target": "GSK",
+  "sentiment_score": 0.418,
+  "aspects": "['Corporate/Regulatory']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Commented on It's Time To Embrace Dividend Growth https://t.co/wc2qfP79TN $ABBV $CSCO $WYN",
+  "snippets": "['Embrace Dividend Growth']",
+  "target": "WYN",
+  "sentiment_score": 0.284,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Entering long Lockheed Martin $LMT at Thursday's open. http://stks.co/eXtA",
+  "snippets": "['Entering long']",
+  "target": "LMT",
+  "sentiment_score": 0.627,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "AstraZeneca share price: Acerta deal pays off with orphan drug status",
+  "snippets": "['share price: Acerta deal pays off']",
+  "target": "AstraZeneca",
+  "sentiment_score": 0.495,
+  "aspects": "['Corporate/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug",
+  "snippets": "['FDA Approves']",
+  "target": "AstraZeneca",
+  "sentiment_score": 0.242,
+  "aspects": "['Corporate/Regulatory']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$ACOM http://stks.co/1G6x Downside breakout looks to be coming soon.",
+  "snippets": "['Downside breakout looks to be coming soon']",
+  "target": "ACOM",
+  "sentiment_score": -0.536,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$HZNP havent seen vol like this since the runup. lets see one more dip to 2.0x",
+  "snippets": "['lets see one more dip to 2.0x']",
+  "target": "HZNP",
+  "sentiment_score": -0.274,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$BAC $ADSK $NFLX long this morning",
+  "snippets": "['long this morning']",
+  "target": "NFLX",
+  "sentiment_score": 0.476,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$GALE Breakout Coming Soon!",
+  "snippets": "['Breakout Coming Soon!']",
+  "target": "GALE",
+  "sentiment_score": 0.465,
+  "aspects": "['Stock/Technical Analysis/Breakout']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Baird likes $TSLA - upgrades to outperform, lifts price target to $300. Research firm also sees no capital raise necessary in next few qtrs",
+  "snippets": "['upgrades to outperform, lifts price target']",
+  "target": "TSLA",
+  "sentiment_score": 0.61,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "GlaxoSmithKline set to complete $20 billion Novartis asset swap next week",
+  "snippets": "['set to complete $20 billion Novartis asset swap next week']",
+  "target": "Novartis",
+  "sentiment_score": 0.189,
+  "aspects": "['Corporate/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$TSLA not dipping - testing the 200 day ma https://t.co/jEPLmZQKGW",
+  "snippets": "['testing the 200 day ma']",
+  "target": "TSLA",
+  "sentiment_score": 0.281,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Hargreaves Lansdown share price falls as costs mount - although pensions ...",
+  "snippets": "['share price falls']",
+  "target": "Hargreaves Lansdown",
+  "sentiment_score": -0.514,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "HSBC shakes up board with two new business chiefs, three departures",
+  "snippets": "['shakes up board with two new business chiefs, three departures']",
+  "target": "HSBC",
+  "sentiment_score": -0.074,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "$YELP wayyy overvalued right now IMO. Should be trading single digits. May take a short pos. into earnings. Near term target 18 ......",
+  "snippets": "['wayyy overvalued right now IMO']",
+  "target": "YELP",
+  "sentiment_score": -0.451,
+  "aspects": "['Stock/Price Action/Current Price/Overbought']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Long $TSLA short $MBLY https://t.co/jSpUSzo6na",
+  "snippets": "['ong $TSLA short $MBLY']",
+  "target": "TSLA",
+  "sentiment_score": 0.607,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "AstraZeneca wins FDA approval for key new lung cancer pill",
+  "snippets": "['FDA approval for key new lung cancer pill']",
+  "target": "AstraZeneca",
+  "sentiment_score": 0.549,
+  "aspects": "['Corporate/Regulatory']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Sold out $TZA 45 $PUT (down $1), which were hedging my 45 $CALL. Letting the calls ride solo now.",
+  "snippets": "['Letting the calls ride solo now']",
+  "target": "TZA",
+  "sentiment_score": 0.385,
+  "aspects": "['Stock/Options/Strategies']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$ATHN Seems like a good short setup. Stop above the 50 day. No position.",
+  "snippets": "['Seems like a good short setup']",
+  "target": "ATHN",
+  "sentiment_score": -0.338,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Morning Agenda: Shire's Deal for NPS",
+  "snippets": "['Shire's Deal for NPS']",
+  "target": "Shire",
+  "sentiment_score": 0.195,
+  "aspects": "['Corporate/Sales/Deal']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$GOOGL gets an upgrade price target $970",
+  "snippets": "['gets an upgrade price target']",
+  "target": "GOOGL",
+  "sentiment_score": 0.47,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$DARA breaking out",
+  "snippets": "['breaking out']",
+  "target": "DARA",
+  "sentiment_score": 0.427,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "@CGrantWSJ I think this $TSLA bubble might go on for some time. So long as ppl love the cars, they might keep getting funding.",
+  "snippets": "['bubble might go on for some time']",
+  "target": "TSLA",
+  "sentiment_score": 0.424,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$SPY bull move ended waiting for next setup",
+  "snippets": "['bull move ended']",
+  "target": "SPY",
+  "sentiment_score": -0.204,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Supermarket Stocks Rally as Tesco Plans to Axe Non-core UK Assets $TSCO https://t.co/BmvhcrwREA",
+  "snippets": "['Stocks Rally']",
+  "target": "TSCO",
+  "sentiment_score": 0.248,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Novartis buys remaining rights to GSK treatment in deal up to $1 billion",
+  "snippets": "['buys remaining rights to GSK treatment in deal up to $1 billion']",
+  "target": "Novartis",
+  "sentiment_score": 0.217,
+  "aspects": "['Corporate/Sales/Deal']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$FB popping up to HOD",
+  "snippets": "['popping up to HOD']",
+  "target": "FB",
+  "sentiment_score": 0.446,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$HYG Potential continuation Uptrend on a 60'-15'-4' charts http://stks.co/t1Qp6",
+  "snippets": "['Potential continuation Uptrend']",
+  "target": "HYG",
+  "sentiment_score": 0.437,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "I am not optimistic about $amzn both fundementals and charts look like poopoo this quarter.",
+  "snippets": "['both fundementals and charts look like poopoo this quarter.']",
+  "target": "AMZN",
+  "sentiment_score": -0.506,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Borealis Infrastructure putting together new Severn Trent bid",
+  "snippets": "['putting together new Severn Trent bid']",
+  "target": "Severn Trent",
+  "sentiment_score": 0.214,
+  "aspects": "['Corporate/M&A/Proposed Merger']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Thank you $GOOG (Google Alphabet) and $FB (Facebook) stocks! What a nice reversal.",
+  "snippets": "['What a nice reversal.']",
+  "target": "GOOG",
+  "sentiment_score": 0.318,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Costco: A Premier Retail Dividend Play https://t.co/J3UhTs022M $COST",
+  "snippets": "['Dividend Play']",
+  "target": "COST",
+  "sentiment_score": 0.463,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "DJI overbought: $AAPL, $AXP, $BA, $CVX, $IBM, $INTC, $VZ https://t.co/wMy1PnomJF",
+  "snippets": "['DJI overbought']",
+  "target": "VZ",
+  "sentiment_score": -0.296,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$YOKU high volume blast off Friday, goes higher  http://stks.co/qSaL",
+  "snippets": "['high volume blast off Friday, goes higher']",
+  "target": "YOKU",
+  "sentiment_score": 0.565,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs",
+  "snippets": "['Tesla to recall 2,700 Model X SUVs over seat issue']",
+  "target": "TSLA",
+  "sentiment_score": -0.31,
+  "aspects": "['Corporate/Risks/Product Recall']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "I'm liking the price action in $SWKS, currently @21.80 ; my target: 24.00+ before year end.",
+  "snippets": "[\"I'm liking the price action\"]",
+  "target": "SWKS",
+  "sentiment_score": 0.603,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "So as of today's close (8/15/14), I'm long $TSLA $AMTD $TWTR $FB $AAPL $CELG - all on a longer-term, technical swing long basis.",
+  "snippets": "['technical swing long basis']",
+  "target": "TWTR",
+  "sentiment_score": 0.591,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Aberdeen Asset Management Gains Foothold In China",
+  "snippets": "['Gains Foothold In China']",
+  "target": "Aberdeen Asset Managment",
+  "sentiment_score": 0.357,
+  "aspects": "['Corporate/Strategy']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$KIOR My god. Market getting crushed today. Gotta hold if anything g should recover some tomorrow I imagine.",
+  "snippets": "['Market getting crushed today']",
+  "target": "KIOR",
+  "sentiment_score": -0.302,
+  "aspects": "['Market/Market']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$UUP at major resistance right now. Can go much higher if it can break above. May take several attempts - few days to a week",
+  "snippets": "['Can go much higher if it can break above']",
+  "target": "UUP",
+  "sentiment_score": 0.171,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Royal Mail share price rallies amid positive broker comments",
+  "snippets": "['share price rallies']",
+  "target": "Royal Mail",
+  "sentiment_score": 0.59,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$SLV POS, been saying it for 2 years. Going lower. Forget about it or go short.",
+  "snippets": "['Going lower. Forget about it or go short.']",
+  "target": "SLV",
+  "sentiment_score": -0.631,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Severn Trent share price jumps as Canadian investor renews pursuit of utility",
+  "snippets": "['share price jumps']",
+  "target": "Severn Trent",
+  "sentiment_score": 0.433,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$FB still a dog going much lower this week",
+  "snippets": "['still a dog going much lower this week']",
+  "target": "FB",
+  "sentiment_score": -0.554,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$TXRH reports Q1 EPS of $0.37 versus the estimated $0.35, beating by $0.02. EPS were Up 19% from the same quarter last year.",
+  "snippets": "['eports Q1 EPS of $0.37 versus the estimated $0.35, beating by $0.02. EPS were Up 19% from the same quarter last year.']",
+  "target": "TXRH",
+  "sentiment_score": 0.365,
+  "aspects": "['Corporate/Financial/Financial Results/Earnings']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$SPY $MITK fast 56pc dive http://stks.co/3ffN $$",
+  "snippets": "['fast 56pc div']",
+  "target": "SPY",
+  "sentiment_score": -0.26,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Long Position on $IP,....Scaling UP http://stks.co/sIln",
+  "snippets": "['Long Position']",
+  "target": "IP",
+  "sentiment_score": 0.662,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "RT @stockdemons think shorting here into close might be play, $SPY - high beta reversing..looks worth a shot",
+  "snippets": "['think shorting here into close might be play']",
+  "target": "SPY",
+  "sentiment_score": -0.469,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$GPS Gap September Comparable Store Sales -4%",
+  "snippets": "['September Comparable Store Sales -4%']",
+  "target": "GPS",
+  "sentiment_score": -0.441,
+  "aspects": "['Corporate/Sales']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$SIGA Bid for Reargument Denied by Judge",
+  "snippets": "['Bid for Reargument Denied by Judge']",
+  "target": "SIGA",
+  "sentiment_score": -0.354,
+  "aspects": "['Corporate/Legal']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...",
+  "snippets": "['form Joint Venture Limited Liability Company to Purchase ..']",
+  "target": "Kinder Morgan",
+  "sentiment_score": 0.225,
+  "aspects": "['Corporate/M&A/Joint Venture']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$TSLA steaming up again, this stock is relentless at the moment",
+  "snippets": "['steaming up again, this stock is relentless at the moment']",
+  "target": "TSLA",
+  "sentiment_score": 0.535,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$RUSS Don't catch falling knives, but I think an entry is coming soon on this",
+  "snippets": "[\"Don't catch falling knives\"]",
+  "target": "RUSS",
+  "sentiment_score": 0.1,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "$UBNT still having some trouble at the resistance line. Should resolve soon.@cheri1 @strattonite   http://stks.co/c0sU4",
+  "snippets": "['still having some trouble at the resistance line']",
+  "target": "UBNT",
+  "sentiment_score": 0.071,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "Adobe Receives New Rating from Top Analyst $ADBE https://t.co/LJNXPEvHZN",
+  "snippets": "['Receives New Rating']",
+  "target": "ADBE",
+  "sentiment_score": 0.141,
+  "aspects": "['Stock/Coverage/Credit Rating']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "AstraZeneca Explores Potential Deal With Acerta for Cancer Drug",
+  "snippets": "['Explores Potential Deal ']",
+  "target": "AstraZeneca",
+  "sentiment_score": 0.372,
+  "aspects": "['Corporate/M&A/Joint Venture']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$QCOR Just added 3,000 shares @28.",
+  "snippets": "['Just added 3,000 shares']",
+  "target": "QCOR",
+  "sentiment_score": 0.73,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "@Megaas2000 $AAPL McDonalds had a big GROWING success for years with the same BigMac and Apple update and improbe Iphone and Ipad",
+  "snippets": "['had a big GROWING success for years']",
+  "target": "AAPL",
+  "sentiment_score": 0.295,
+  "aspects": "['Corporate/Reputation']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Current holdings via options - Long: $AAPL $V $GS $AET & Short: $VXX",
+  "snippets": "['Current holdings via options - Long']",
+  "target": "V",
+  "sentiment_score": 0.635,
+  "aspects": "['Stock/Options']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Credit Suisse poaches Prudential's Thiam for Asian push",
+  "snippets": "['poaches Prudential's Thiam for Asian push']",
+  "target": "Credit Suisse",
+  "sentiment_score": 0.125,
+  "aspects": "['Corporate/Strategy']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$SDS +1.46% 15.32, picking up some speed. May 16 calls now +35% .19: http://stks.co/3eiK, Next week $16 calls .11c: http://stks.co/3eiL",
+  "snippets": "['picking up some speed. May 16 calls now +35%H']",
+  "target": "SDS",
+  "sentiment_score": 0.41,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$AEGN MACD and ADX are crossing over the signal lines! Long Setup http://stks.co/qzzx",
+  "snippets": "['MACD and ADX are crossing over the signal lines! Long Setup']",
+  "target": "AEGN",
+  "sentiment_score": 0.569,
+  "aspects": "['Stock/Signal/Buy Signal']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "ARM Royalties Accelerate as Smartphone Market Regains Strength",
+  "snippets": "['Smartphone Market Regains Strength']",
+  "target": "ARM",
+  "sentiment_score": 0.571,
+  "aspects": "['Market/Market']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$AAPL nibbling on a small long via 525.. buying off 13min charts..",
+  "snippets": "['nibbling on a small long']",
+  "target": "AAPL",
+  "sentiment_score": 0.509,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "NaturalGas Settles At 3-year Low $DBO $BNO  http://stks.co/d27qX",
+  "snippets": "['Settles At 3-year Low']",
+  "target": "DBO",
+  "sentiment_score": -0.563,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Amazon declares 'best ever' Black Friday and Cyber Monday for Kindle family http://stks.co/cEtw via Engadget $AMZN",
+  "snippets": "[\"declares 'best ever' Black Friday and Cyber Monday\"]",
+  "target": "AMZN",
+  "sentiment_score": 0.434,
+  "aspects": "['Corporate/Sales']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Kingfisher takeover of Mr Bricolage could hit a brick wall",
+  "snippets": "['Kingfisher takeover of Mr Bricolage could hit a brick wall']",
+  "target": "Mr Bricolage",
+  "sentiment_score": -0.311,
+  "aspects": "['Corporate/M&A/Proposed Merger']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$NUGT Gold above 1400...wow",
+  "snippets": "['Gold above 1400...wow']",
+  "target": "NUGT",
+  "sentiment_score": 0.424,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "GlaxoSmithKline starts hunt for successor to CEO Witty",
+  "snippets": "['starts hunt for successor to CEO']",
+  "target": "GlaxoSmithKline",
+  "sentiment_score": 0.0,
+  "aspects": "['Corporate/Appointment/Executive Appointment']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "$CERN - consolidating above 50 & 200 MA - nice long entry here w stop below 10 MA - targeting $70 area",
+  "snippets": "['consolidating above 50 & 200 MA']",
+  "target": "CERN",
+  "sentiment_score": 0.443,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$UTSI http://stks.co/15uR Long setup. Reported very good earnings.",
+  "snippets": "['Reported very good earnings.']",
+  "target": "UTSI",
+  "sentiment_score": 0.63,
+  "aspects": "['Corporate/Financial/Financial Results/Earnings']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "New recommendation from Carl Kirst of BMO Capital Markets for $WMB is BUY.Price target is $62:http://stks.co/t0S0r",
+  "snippets": "['New recommendation from Carl Kirst of BMO Capital Markets for']",
+  "target": "WMB",
+  "sentiment_score": 0.566,
+  "aspects": "['Stock/Coverage/AnalystRatings']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "GSK joins China trade push as UK trumpets healthcare deals",
+  "snippets": "['joins China trade push']",
+  "target": "GSK",
+  "sentiment_score": 0.294,
+  "aspects": "['Economy/Trade']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",
+  "snippets": "['will all cut petrol prices as oil falls ...']",
+  "target": "Morrisons",
+  "sentiment_score": -0.251,
+  "aspects": "['Stock/Price Action/Future Price']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$LSCC Accumulation chart continues to make new highs showing accumulation continuing to take place http://stks.co/aDpO",
+  "snippets": "['Accumulation chart continues to make new highs showing accumulation continuing to take place']",
+  "target": "LSCC",
+  "sentiment_score": 0.497,
+  "aspects": "['Stock/Price Action/Volume/Unusual high volume']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "RT @StockTwits RT @fallondpicks Breadth Consolidates: After weeks of steady gains,advances in mkt breadth slowe... http://stks.co/2TrG $QQQ",
+  "snippets": "['After weeks of steady gains,advances in mkt breadth slowe']",
+  "target": "QQQ",
+  "sentiment_score": -0.146,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Google, Inc. completes acquisition of ICOA, Inc. http://stks.co/nFEI $ICOA $GOOG",
+  "snippets": "['completes acquisition of']",
+  "target": "ICOA",
+  "sentiment_score": 0.451,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Irish Said Chasing Standard Chartered, RBS as Brexit Vote Nears",
+  "snippets": "['Chasing Standard Chartered']",
+  "target": "Standard Chartered",
+  "sentiment_score": 0.128,
+  "aspects": "['Corporate/Strategy/Corporate Planning']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Glencore chief blames rivals' overproduction for share price fall",
+  "snippets": "['share price fall']",
+  "target": "Glencore",
+  "sentiment_score": -0.301,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "FTSE 100 falls as China devaluation hits Burberry, mining stocks",
+  "snippets": "['FTSE 100 falls as']",
+  "target": "Burberry",
+  "sentiment_score": -0.479,
+  "aspects": "['Market/Volatility']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Standard Chartered Shifts Emerging-Markets Strategy After Losses",
+  "snippets": "['Shifts Emerging-Markets Strategy']",
+  "target": "Standard Chartered",
+  "sentiment_score": -0.461,
+  "aspects": "['Corporate/Strategy']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Tesco criticised for 'disgraceful' advert showing domestic worker being slapped",
+  "snippets": "['criticised for 'disgraceful' advert showing domestic worker being slapped']",
+  "target": "Tesco",
+  "sentiment_score": -0.498,
+  "aspects": "['Corporate/Reputation']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$NUAN held up well after the big gains! Maybe we're finally on the move on this!!its still very undervalued and has major upside",
+  "snippets": "['still very undervalued and has major upside']",
+  "target": "NUAN",
+  "sentiment_score": 0.695,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$PCLN Trying to break daily trend line! Big move could happen https://t.co/gY0aDb2jsQ https://t.co/KPBBCgQ2xy",
+  "snippets": "['Trying to break daily trend line']",
+  "target": "PCLN",
+  "sentiment_score": 0.485,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$GS sells flat..I am out..",
+  "snippets": "['sells flat..I am out..']",
+  "target": "GS",
+  "sentiment_score": -0.541,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$VRTX early technical BUY signal... for confirmation > 86 it needs some fundam. incentive https://t.co/QuYSrqFo2x",
+  "snippets": "['early technical BUY signal']",
+  "target": "VRTX",
+  "sentiment_score": 0.464,
+  "aspects": "['Stock/Signal/Buy Signal']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "ConAgra Names Former Hillshire Farms CEO Connolly to Top Post",
+  "snippets": "['Farms CEO Connolly to Top Pos']",
+  "target": "ConAgra",
+  "sentiment_score": 0.101,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$EXPE working on the second leg of its reversal run as it breaks another down trend and continues higher. https://t.co/76DSJysyR0",
+  "snippets": "['breaks another down trend and continues higher']",
+  "target": "EXPE",
+  "sentiment_score": 0.536,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$CTRP breaking out https://t.co/Z2je3rTKch",
+  "snippets": "['breaking out']",
+  "target": "CTRP",
+  "sentiment_score": 0.364,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "BHP Billiton slashes dividend, posts $5.67 billion net loss",
+  "snippets": "['slashes dividend']",
+  "target": "BHP Billiton",
+  "sentiment_score": -0.341,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$AMZN new HOD with conviction keeping $570 on watch for Resistance.",
+  "snippets": "['new HOD with conviction']",
+  "target": "AMZN",
+  "sentiment_score": 0.529,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Hammerson, JV Partner secure ownership of Ireland's Dundrum - Quick Facts",
+  "snippets": "['secure ownership of Ireland's Dundrum - Quick Facts']",
+  "target": "JV Partner",
+  "sentiment_score": 0.427,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Why Alphabet Inc was just upgraded to buy https://t.co/dEVnLKhqtZ $GOOGL",
+  "snippets": "['was just upgraded to buy']",
+  "target": "GOOGL",
+  "sentiment_score": 0.465,
+  "aspects": "['Stock/Coverage/AnalystRatings/Upgrade']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$BAC $ADSK $NFLX long this morning",
+  "snippets": "['long this morning']",
+  "target": "NFLX",
+  "sentiment_score": 0.476,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Legal & General share price: Finance chief to step down",
+  "snippets": "['Finance chief to step down']",
+  "target": "Legal & General",
+  "sentiment_score": -0.166,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Surprising to see $JWN and $SKS sales numbers still holding up so well. I guess the high end might not be a concern after all.",
+  "snippets": "['sales numbers still holding up so well']",
+  "target": "SKS",
+  "sentiment_score": 0.315,
+  "aspects": "['Corporate/Sales']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$AAPL Good time to buy. Will the run come before earnings or after?",
+  "snippets": "['Good time to buy.']",
+  "target": "AAPL",
+  "sentiment_score": 0.533,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$TRX http://stks.co/1KkK Long setup. MACD cross.",
+  "snippets": "['Long setup. MACD cross.']",
+  "target": "TRX",
+  "sentiment_score": 0.438,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$CHKP ABC Bullish Pattern, Targets https://t.co/uVMmRSR5Zy",
+  "snippets": "['ABC Bullish Pattern']",
+  "target": "CHKP",
+  "sentiment_score": 0.496,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Goldman Sachs, Barclays, HSBC downplay Brexit threat",
+  "snippets": "['downplay Brexit threat']",
+  "target": "Barclays",
+  "sentiment_score": 0.0,
+  "aspects": "['Corporate/Risks']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/j35FNnx744 $AAPL #APPLE $AXP $BAC",
+  "snippets": "['Another Sell Rating, Sell Ratings On']",
+  "target": "BAC",
+  "sentiment_score": -0.513,
+  "aspects": "['Stock/Coverage/AnalystRatings/Downgrade']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal",
+  "snippets": "['to buy Wilshire Bancorp in $1 bln deal']",
+  "target": "Wilshire Bancorp",
+  "sentiment_score": 0.818,
+  "aspects": "['Corporate/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "How Kraft-Heinz Merger Came Together in Speedy 10 Weeks",
+  "snippets": "['Merger Came Together in Speedy 10 Weeks']",
+  "target": "Kraft",
+  "sentiment_score": 0.214,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$ISRG PT raised to $700 from $640 at Leerink - keeps Outperform rated",
+  "snippets": "['keeps Outperform rated']",
+  "target": "ISRG",
+  "sentiment_score": 0.489,
+  "aspects": "['Stock/Coverage/Stock Coverage']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "HSBC Hit by Fresh Details of Tax Evasion Claims",
+  "snippets": "['Tax Evasion Claims']",
+  "target": "HSBC",
+  "sentiment_score": -0.594,
+  "aspects": "['Corporate/Legal']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$KCG bot at 2.24",
+  "snippets": "['bot at 2.24']",
+  "target": "KCG",
+  "sentiment_score": 0.384,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$ZNGA http://stks.co/3rdu Looking for a test at 9.25 resistance point. cc @ cfrazierjr @FletchTrade #traders",
+  "snippets": "['Looking for a test at 9.25 resistance point']",
+  "target": "ZNGA",
+  "sentiment_score": 0.248,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "RBS Pays $1.7 Billion to Scrap U.K. Treasury's Dividend Rights",
+  "snippets": "['to Scrap U.K. Treasury's Dividend Rights']",
+  "target": "RBS",
+  "sentiment_score": 0.066,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",
+  "snippets": "['drive markets higher']",
+  "target": "Ashtead",
+  "sentiment_score": 0.514,
+  "aspects": "['Market/Market']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "End Of Day Scan: Bullish MA  Crossovers $BBVA $PDS $NTLS $NGL $SBRCY $FGL $MTNOY $TTT  www.dailystockplays.com",
+  "snippets": "['Bullish MA Crossovers']",
+  "target": "TTT",
+  "sentiment_score": 0.457,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "@asdfLLC. Nice pop today. Told ya we would be green haha. Funny you bring that up. I'm actually working on a story about $NOK at the moment",
+  "snippets": "['Nice pop today. Told ya we would be green haha']",
+  "target": "NOK",
+  "sentiment_score": 0.404,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$GRPN might be selling off ahead of $P earnings...",
+  "snippets": "['might be selling off ahead']",
+  "target": "P",
+  "sentiment_score": -0.202,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "UPDATE 5-Barclays Chairman McFarlane axes CEO to speed up strategic change",
+  "snippets": "['to speed up strategic change']",
+  "target": "Barclays",
+  "sentiment_score": -0.229,
+  "aspects": "['Corporate/Strategy']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Shares in BAE Systems hit 10-month high on rating upgrade",
+  "snippets": "['hit 10-month high on rating upgrade']",
+  "target": "BAE",
+  "sentiment_score": 0.905,
+  "aspects": "['Stock/Coverage']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "FDA approves NPS drug, in move validating Shire takeover deal",
+  "snippets": "['validating Shire takeover deal']",
+  "target": "Shire",
+  "sentiment_score": 0.332,
+  "aspects": "['Corporate/M&A/Proposed Merger']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$renn topping tail 5 min. chart at 7.31 short from here.",
+  "snippets": "['short from here.']",
+  "target": "RENN",
+  "sentiment_score": -0.64,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Shell share price: Standard Life announce position against BG acquisition",
+  "snippets": "['Standard Life announce position against BG acquisition']",
+  "target": "Shell",
+  "sentiment_score": -0.134,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "CompaniesHome Retail trims gains but is considered 'in play'",
+  "snippets": "['trims gains but is considered 'in play'']",
+  "target": "Home Retail",
+  "sentiment_score": 0.135,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "stole my tweet. really wouldn't be surprised if we took out 423 and pinned around it RT @totalguru We could possibly even see425 today $AAPL",
+  "snippets": "[\"wouldn't be surprised if we took out 423\"]",
+  "target": "AAPL",
+  "sentiment_score": 0.142,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$ELN longs...congrats...another HOD",
+  "snippets": "['longs...congrats...another HOD']",
+  "target": "ELN",
+  "sentiment_score": 0.445,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Intuitive Surgical $ISRG is in a great financial position, take a look https://t.co/VahhJAcBFG https://t.co/24hQTQX4ou",
+  "snippets": "['is in a great financial position']",
+  "target": "ISRG",
+  "sentiment_score": 0.406,
+  "aspects": "['Corporate/Financial']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$AAPL AAPL: Gundlach Slams iPad mini, Sees Downside to $425. http://stks.co/bDqV",
+  "snippets": "['Gundlach Slams iPad mini, Sees Downside']",
+  "target": "AAPL",
+  "sentiment_score": -0.325,
+  "aspects": "['Stock/Coverage/AnalystRatings/Downgrade']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Tesco share price tumbles after negative broker note",
+  "snippets": "['share price tumbles a']",
+  "target": "Tesco",
+  "sentiment_score": -0.779,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$ENB.CA {Head&Shoulders} bullish reversal setup and breakout. Oil and Gas Pipleline stock. $USO",
+  "snippets": "['{Head&Shoulders} bullish reversal setup and breakout']",
+  "target": "USO",
+  "sentiment_score": 0.253,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Philip Morris, BAT Sue Over Law Taking Branding Off Packs",
+  "snippets": "['Sue Over Law Taking Branding Off Packs']",
+  "target": "BAT",
+  "sentiment_score": -0.152,
+  "aspects": "['Corporate/Legal/Lawsuit']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$SAP Q1 disappoints as #software licenses down. Real problem? #Cloud growth trails $MSFT $ORCL $GOOG $CRM $ADBE https://t.co/jNDphllzq5",
+  "snippets": "['Q1 disappoints as #software licenses down']",
+  "target": "SAP",
+  "sentiment_score": -0.431,
+  "aspects": "['Corporate/Financial/Financial Results/Earnings/Financial Results']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Juniper tumbles on Q1 warning; Cisco also lower https://t.co/N8X8BpLJ1E $JNPR $CSCO",
+  "snippets": "['tumbles on Q1 warning']",
+  "target": "JNPR",
+  "sentiment_score": -0.556,
+  "aspects": "['Corporate/Financial/Financial Results/Earnings/Profit Warning']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "MT @TheAcsMan Amazing seeing everyone suddenly touting $MSFT. Long been favorite covered call & double dip dividend play.",
+  "snippets": "['double dip dividend play']",
+  "target": "MSFT",
+  "sentiment_score": 0.444,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Out of shorts $ALTR at 38.85 with loss",
+  "snippets": "['Out of shorts']",
+  "target": "ALTR",
+  "sentiment_score": 0.372,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$AAPL price momentum weakening going into the close.",
+  "snippets": "['price momentum weakening going into the close.']",
+  "target": "AAPL",
+  "sentiment_score": -0.22,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$FB watching for bounce tomorrow",
+  "snippets": "['watching for bounce tomorrow']",
+  "target": "FB",
+  "sentiment_score": 0.366,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Valeant Said to Name New CEO With Pearson Still Hospitalized",
+  "snippets": "['Said to Name New CEO With Pearson Still Hospitalized']",
+  "target": "Valeant",
+  "sentiment_score": 0.015,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "$aapl.  Test the high today and probably go beyond after hours...",
+  "snippets": "['Test the high today']",
+  "target": "AAPL",
+  "sentiment_score": 0.505,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Builder Persimmon hails 6% rise in house sales",
+  "snippets": "['6% rise in house sales']",
+  "target": "Persimmon",
+  "sentiment_score": 0.435,
+  "aspects": "['Corporate/Sales']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$FB trend, hits mid 110's and drops",
+  "snippets": "[\"hits mid 110's and drops\"]",
+  "target": "FB",
+  "sentiment_score": -0.343,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Crown Castle buys Tower Development Corp for $461 million",
+  "snippets": "['Crown Castle buys Tower Development Corp']",
+  "target": "Tower Development",
+  "sentiment_score": 0.366,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "@Joerazorback This time I think $AAPL will miss again. Generally speaking market is near top when everyone thinks that market goes only up",
+  "snippets": "['This time I think $AAPL will miss again']",
+  "target": "AAPL",
+  "sentiment_score": -0.363,
+  "aspects": "['Corporate/Financial/Financial Results/Earnings/Earnings miss']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Whitbread share price climbs on Q4 sales growth",
+  "snippets": "['share price climbs']",
+  "target": "Whitbread",
+  "sentiment_score": 0.513,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "@saltwaternurse $INO can test 10 again in next few days. time to take some profits here. or hedge with puts.",
+  "snippets": "['time to take some profits here']",
+  "target": "INO",
+  "sentiment_score": -0.169,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital",
+  "snippets": "['Lender Cuts Dividends to Shore Up Capita']",
+  "target": "Barclays",
+  "sentiment_score": 0.261,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "5 Best Analyst Rated Stocks in Last 72hrs: $ORCL $AAPL $CBS $INO $CPXX View all ratings here: https://t.co/IRID6zd5gc",
+  "snippets": "['Analyst Rated Stocks']",
+  "target": "ORCL",
+  "sentiment_score": 0.509,
+  "aspects": "['Stock/Coverage/AnalystRatings']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "GKN to buy Fokker Technologies for 706 mln euros",
+  "snippets": "['to buy Fokker Technologies']",
+  "target": "GKN",
+  "sentiment_score": 0.276,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber",
+  "snippets": "['of illegal tips to plumber']",
+  "target": "Barclays",
+  "sentiment_score": -0.34,
+  "aspects": "['Stock/Insider Activity']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "SAB's Chairman Digs In With Board Divided on InBev Offer",
+  "snippets": "['Digs In With Board Divided on InBev Offer']",
+  "target": "SABMiller",
+  "sentiment_score": 0.016,
+  "aspects": "['Corporate/Reputation/Dispute']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "@scottrade Why is $tsla not available for shorting at this time?  Same for $w?",
+  "snippets": "['not available for shorting at this time?']",
+  "target": "W",
+  "sentiment_score": -0.528,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "@BULLYA @pollux654321 My 50 $KORS 80 Calls are going to b a Blessing for my Daughters tuition!",
+  "snippets": "['Calls are going to b a Blessing for my Daughters tuition']",
+  "target": "KORS",
+  "sentiment_score": 0.431,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Still short $LNG from $11.70 area...next stop could be down through $9.00. Someone slammed it hard with 230,000 shs this am! More to follow",
+  "snippets": "['Still short $LNG from $11.70 area...next stop could be down through $9.00.']",
+  "target": "LNG",
+  "sentiment_score": -0.543,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "UPDATE 1-Lloyds to cut 945 jobs as part of 3-year restructuring plan",
+  "snippets": "['cut 945 jobs as part of 3-year restructuring plan']",
+  "target": "Lloyds",
+  "sentiment_score": -0.266,
+  "aspects": "['Corporate/Strategy']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "$FTI Breakout today after reporting earnings last night",
+  "snippets": "['Breakout today']",
+  "target": "FTI",
+  "sentiment_score": 0.554,
+  "aspects": "['Stock/Technical Analysis/Breakout']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66",
+  "snippets": "['maintains Neutral rating']",
+  "target": "TRIP",
+  "sentiment_score": -0.019,
+  "aspects": "['Stock/Coverage/AnalystRatings']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "GSK and Novartis complete deals to reshape both drugmakers",
+  "snippets": "['complete deals to reshape both drugmakers']",
+  "target": "Novartis",
+  "sentiment_score": 0.264,
+  "aspects": "['Corporate/Strategy/Reorganization']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "potential defect with third-row seat belts. Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/YVYDncdNdi",
+  "snippets": "['potential defect with third-row seat belts. Tesla Motors recalls']",
+  "target": "TSLA",
+  "sentiment_score": -0.366,
+  "aspects": "['Corporate/Risks/Product Recall']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$PRGN A bottom right here?",
+  "snippets": "['A bottom right here?']",
+  "target": "PRGN",
+  "sentiment_score": 0.041,
+  "aspects": "['Stock/Price Action']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "Primark racks up a happy Christmas after strong sales",
+  "snippets": "['after strong sales']",
+  "target": "Primark",
+  "sentiment_score": 0.704,
+  "aspects": "['Corporate/Sales']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "AB InBev attacks SABMiller bid rebuffal",
+  "snippets": "['attacks SABMiller bid rebuffal']",
+  "target": "SABMiller",
+  "sentiment_score": -0.158,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "@technik I still have a smaller $GILD pos. Being very tender with cash due to volatility. So reluctant to keep many big positions.",
+  "snippets": "['Being very tender with cash due to volatility']",
+  "target": "GILD",
+  "sentiment_score": 0.153,
+  "aspects": "['Market/Volatility]",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "EasyJet attracts more passengers in June but still lags Ryanair",
+  "snippets": "['attracts more passengers']",
+  "target": "Ryanair",
+  "sentiment_score": 0.259,
+  "aspects": "['Corporate/Sales/Sales']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...",
+  "snippets": "['fail to find reserves']",
+  "target": "Royal Dutch Shell",
+  "sentiment_score": -0.402,
+  "aspects": "['Corporate/Risks']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "CompaniesLSE adds ex-SEC head Schapiro to board",
+  "snippets": "['adds ex-SEC head Schapiro to board']",
+  "target": "LSE",
+  "sentiment_score": 0.076,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "UK housing market steadies after Brexit dip, Persimmon says",
+  "snippets": "['housing market']",
+  "target": "Perssimon",
+  "sentiment_score": 0.339,
+  "aspects": "['Market/Market']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Royal Mail share price edges lower as group raises stamp price",
+  "snippets": "['share price edges lower']",
+  "target": "Royal Mail",
+  "sentiment_score": -0.269,
+  "aspects": "['Stock/Price Action']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",
+  "snippets": "['No real aspect?']",
+  "target": "Aviva",
+  "sentiment_score": 0.324,
+  "aspects": "['Corporate/Company Communication']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$ATVI ooks pretty bullish for now. from a short-term perspective, it's got a good chance of maybe sliding back to 33.70 #stocks #investing",
+  "snippets": "['pretty bullish for now']",
+  "target": "ATVI",
+  "sentiment_score": 0.323,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "MarketsBP promotes upstream boss to deputy CEO",
+  "snippets": "['promotes upstream boss to deputy CEO']",
+  "target": "BP",
+  "sentiment_score": 0.066,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 1
+ },
+ {
+  "sentence": "$RDC Rowan Expands Share Repurchase Program to $150 million",
+  "snippets": "['Rowan Expands Share Repurchase Program']",
+  "target": "RDC",
+  "sentiment_score": 0.285,
+  "aspects": "['Stock/Fundamentals/Share Buyback']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$STX long play, another consistent profit zone.. check it out https://t.co/DQfuzOzYlh https://t.co/ggne4ayzqn",
+  "snippets": "['long play']",
+  "target": "STX",
+  "sentiment_score": 0.48,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$AAPL at resistance right here...sold my shares...will buy back if it dips or if it goes in the 128 gap zone",
+  "snippets": "['at resistance right here...sold my shares']",
+  "target": "AAPL",
+  "sentiment_score": -0.238,
+  "aspects": "['Stock/Price Action/Bearish/Bearish Behavior']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Locked in some $FB puts for nice gain",
+  "snippets": "['Locked in some $FB puts']",
+  "target": "FB",
+  "sentiment_score": -0.524,
+  "aspects": "['Stock/Price Action/Bearish/Bear Position']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "Industry NewsWolseley confident in reslilience amid mixed markets",
+  "snippets": "['confident in reslilience amid mixed markets']",
+  "target": "Wolseley",
+  "sentiment_score": 0.287,
+  "aspects": "['Market/Market']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "AstraZeneca sells Caprelsa rights to Sanofi unit",
+  "snippets": "['sells Caprelsa rights to Sanofi unit']",
+  "target": "Sanofi",
+  "sentiment_score": 0.233,
+  "aspects": "['Corporate/Sales/Deal']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$GNRC finding support at its 10-day line so far.",
+  "snippets": "['finding support at its 10-day line so far.']",
+  "target": "GNRC",
+  "sentiment_score": 0.256,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "$CNP Sell Short Position on CNP,...Closed for Profit $ 59,367.00 (7.75%) http://stks.co/ghjc",
+  "snippets": "['Sell Short Position on']",
+  "target": "CNP",
+  "sentiment_score": 0.155,
+  "aspects": "['Stock/Price Action/Volatility/Short Selling']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Lots of metal stocks look like a 5-10% run awaits. Long $SSRI,$PAAS and $NEM but most high quality names should go if metal prices cooperate",
+  "snippets": "['stocks look like a 5-10% run awaits. Long']",
+  "target": "SSRI",
+  "sentiment_score": 0.394,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Morrisons finance chief to fill gap as CEO leaves early",
+  "snippets": "['fill gap as CEO leaves']",
+  "target": "Morrisons",
+  "sentiment_score": -0.114,
+  "aspects": "['Corporate/Appointment']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "Horizonte acquires neighbouring Glencore nickel property in Brazil",
+  "snippets": "['e acquires neighbouring Glencore nickel property']",
+  "target": "Horizonte",
+  "sentiment_score": 0.182,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra",
+  "snippets": "['Flagged As Strong On High Volume']",
+  "target": "EXAS",
+  "sentiment_score": 0.385,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "My $DWA play up 6% today. I'm still skeptical. Will take profits. Not a time cheer",
+  "snippets": "[\"I'm still skeptical. Will take profits\"]",
+  "target": "DWA",
+  "sentiment_score": -0.088,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 1
+ },
+ {
+  "sentence": "Breakingviews: IAG can pay more for Aer Lingus",
+  "snippets": "['IAG can pay more for Aer Lingus']",
+  "target": "IAG",
+  "sentiment_score": 0.12,
+  "aspects": "['Corporate/M&A/M&A']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$PLUG bear raid",
+  "snippets": "['bear raid']",
+  "target": "PLUG",
+  "sentiment_score": -0.48,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$GOOGL is a short below 740 into the upper BB and is overbought",
+  "snippets": "['is a short below 740 into the upper BB and is overbought']",
+  "target": "GOOGL",
+  "sentiment_score": -0.48,
+  "aspects": "['Stock/Technical Analysis']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$FB they are hitting  everything in sight.short it. but twtr",
+  "snippets": "['they are hitting everything in sight.short it']",
+  "target": "FB",
+  "sentiment_score": -0.504,
+  "aspects": "['Stock/Price Action/Bearish']",
+  "format": "post",
+  "label": 2
+ },
+ {
+  "sentence": "$EDU bouncing nicely after add-on (posted)",
+  "snippets": "['bouncing nicely']",
+  "target": "EDU",
+  "sentiment_score": 0.437,
+  "aspects": "['Stock/Price Action/Bullish/Bullish Behavior']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Long $PCLN",
+  "snippets": "['Long']",
+  "target": "PCLN",
+  "sentiment_score": 0.663,
+  "aspects": "['Stock/Price Action/Bullish/Bull Position']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra",
+  "snippets": "['Flagged As Strong On High Volume']",
+  "target": "EXAS",
+  "sentiment_score": 0.385,
+  "aspects": "['Stock/Price Action/Bullish']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Shire proposes $30 bln all-share tie-up with Baxalta",
+  "snippets": "['proposes $30 bln all-share tie-up with']",
+  "target": "Shire",
+  "sentiment_score": 0.22,
+  "aspects": "['Corporate/M&A/Proposed Merger']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "$aapl key is to breakout above 460 on solid volume or else it's a no trade for now",
+  "snippets": "['key is to breakout above 460 on solid volume']",
+  "target": "AAPL",
+  "sentiment_score": 0.123,
+  "aspects": "['Stock/Technical Analysis/Breakout']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Rio Tinto swings to loss, drops dividend policy",
+  "snippets": "['drops dividend policy']",
+  "target": "Rio Tinto",
+  "sentiment_score": -0.511,
+  "aspects": "['Corporate/Dividend Policy']",
+  "format": "headline",
+  "label": 2
+ },
+ {
+  "sentence": "CompaniesUnilever sales lifted by ice cream in soft economy",
+  "snippets": "['sales lifted by ice cream in soft economy']",
+  "target": "Unilever",
+  "sentiment_score": 0.383,
+  "aspects": "['Corporate/Sales']",
+  "format": "headline",
+  "label": 0
+ },
+ {
+  "sentence": "Last month we added to our $GILD position and started a new one in $BWLD We see slow, steady, unspectacular growth going forward near term",
+  "snippets": "['We see slow, steady, unspectacular growth going forward near term']",
+  "target": "GILD",
+  "sentiment_score": 0.422,
+  "aspects": "['Stock/Fundamentals']",
+  "format": "post",
+  "label": 0
+ },
+ {
+  "sentence": "Investors Remain Skeptical About Shell-BG Deal",
+  "snippets": "['Investors Remain Skeptical About Shell-BG Deal']",
+  "target": "Shell",
+  "sentiment_score": -0.266,
+  "aspects": "['Corporate/Rumors/Rumors']",
+  "format": "headline",
+  "label": 2
+ }
+]
