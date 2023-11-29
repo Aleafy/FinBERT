@@ -163,8 +163,8 @@ class FinBert(object):
         if self.n_gpu > 0:
             torch.cuda.manual_seed_all(self.config.seed)
 
-        if os.path.exists(self.config.model_dir) and os.listdir(self.config.model_dir):
-            raise ValueError("Output directory ({}) already exists and is not empty.".format(self.config.model_dir))
+        # if os.path.exists(self.config.model_dir) and os.listdir(self.config.model_dir):
+        #     raise ValueError("Output directory ({}) already exists and is not empty.".format(self.config.model_dir))
         if not os.path.exists(self.config.model_dir):
             os.makedirs(self.config.model_dir)
 
@@ -203,6 +203,40 @@ class FinBert(object):
             labels = self.label_list
 
             class_weights = [train.shape[0] / train[train.label == label].shape[0] for label in labels]
+            self.class_weights = torch.tensor(class_weights)
+
+        return examples
+
+    def get_data_json(self, phase):
+        """
+        Gets the data for training or evaluation. It returns the data in the format that pytorch will process. In the
+        data directory, there should be a .csv file with the name <phase>.csv
+        Parameters
+        ----------
+        phase: str
+            Name of the dataset that will be used in that phase. For example if there is a 'train.csv' in the data
+            folder, it should be set to 'train'.
+        Returns
+        -------
+        examples: list
+            A list of InputExample's. Each InputExample is an object that includes the information for each example;
+            text, id, label...
+        """
+
+        self.num_train_optimization_steps = None
+        examples = None
+        examples = self.processor.get_examples_json(self.config.data_dir, phase)
+        self.num_train_optimization_steps = int(
+            len(
+                examples) / self.config.train_batch_size / self.config.gradient_accumulation_steps) * self.config.num_train_epochs
+
+        if phase == 'train':
+            train = json.load(open(os.path.join(self.config.data_dir, 'train.json'),'r'))
+            # train = pd.read_csv(os.path.join(self.config.data_dir, 'train.csv'), sep='\t', index_col=False)
+            weights = list()
+            labels = self.label_list
+
+            class_weights = [len(train)/ sum(1 for item in train if item["label"] == i) for i, label in enumerate(labels)]
             self.class_weights = torch.tensor(class_weights)
 
         return examples
@@ -361,7 +395,7 @@ class FinBert(object):
             The trained model.
         """
 
-        validation_examples = self.get_data('validation')
+        # validation_examples = self.get_data('validation')
 
         global_step = 0
 
@@ -439,60 +473,64 @@ class FinBert(object):
                     self.optimizer.zero_grad()
                     global_step += 1
 
-            # Validation
+            # # # Validation 注意ft时没有valid-set, 故注释
 
-            validation_loader = self.get_loader(validation_examples, phase='eval')
-            model.eval()
+            # validation_loader = self.get_loader(validation_examples, phase='eval')
+            # model.eval()
 
-            valid_loss, valid_accuracy = 0, 0
-            nb_valid_steps, nb_valid_examples = 0, 0
+            # valid_loss, valid_accuracy = 0, 0
+            # nb_valid_steps, nb_valid_examples = 0, 0
 
-            for input_ids, attention_mask, token_type_ids, label_ids, agree_ids in tqdm(validation_loader, desc="Validating"):
-                input_ids = input_ids.to(self.device)
-                attention_mask = attention_mask.to(self.device)
-                token_type_ids = token_type_ids.to(self.device)
-                label_ids = label_ids.to(self.device)
-                agree_ids = agree_ids.to(self.device)
+            # for input_ids, attention_mask, token_type_ids, label_ids, agree_ids in tqdm(validation_loader, desc="Validating"):
+            #     input_ids = input_ids.to(self.device)
+            #     attention_mask = attention_mask.to(self.device)
+            #     token_type_ids = token_type_ids.to(self.device)
+            #     label_ids = label_ids.to(self.device)
+            #     agree_ids = agree_ids.to(self.device)
 
-                with torch.no_grad():
-                    logits = model(input_ids, attention_mask, token_type_ids)[0]
+            #     with torch.no_grad():
+            #         logits = model(input_ids, attention_mask, token_type_ids)[0]
 
-                    if self.config.output_mode == "classification":
-                        loss_fct = CrossEntropyLoss(weight=weights)
-                        tmp_valid_loss = loss_fct(logits.view(-1, self.num_labels), label_ids.view(-1))
-                    elif self.config.output_mode == "regression":
-                        loss_fct = MSELoss()
-                        tmp_valid_loss = loss_fct(logits.view(-1), label_ids.view(-1))
+            #         if self.config.output_mode == "classification":
+            #             loss_fct = CrossEntropyLoss(weight=weights)
+            #             tmp_valid_loss = loss_fct(logits.view(-1, self.num_labels), label_ids.view(-1))
+            #         elif self.config.output_mode == "regression":
+            #             loss_fct = MSELoss()
+            #             tmp_valid_loss = loss_fct(logits.view(-1), label_ids.view(-1))
 
-                    valid_loss += tmp_valid_loss.mean().item()
+            #         valid_loss += tmp_valid_loss.mean().item()
 
-                    nb_valid_steps += 1
+            #         nb_valid_steps += 1
 
-            valid_loss = valid_loss / nb_valid_steps
+            # valid_loss = valid_loss / nb_valid_steps
 
-            self.validation_losses.append(valid_loss)
-            print("Validation losses: {}".format(self.validation_losses))
+            # self.validation_losses.append(valid_loss)
+            # print("Validation losses: {}".format(self.validation_losses))
 
-            if valid_loss == min(self.validation_losses):
+            # if valid_loss == min(self.validation_losses):
 
-                try:
-                    os.remove(self.config.model_dir / ('temporary' + str(best_model)))
-                except:
-                    print('No best model found')
-                torch.save({'epoch': str(i), 'state_dict': model.state_dict()},
-                           self.config.model_dir / ('temporary' + str(i)))
-                best_model = i
+            #     try:
+            #         os.remove(self.config.model_dir / ('temporary' + str(best_model)))
+            #     except:
+            #         print('No best model found')
+            #     torch.save({'epoch': str(i), 'state_dict': model.state_dict()},
+            #                self.config.model_dir / ('temporary' + str(i)))
+            #     best_model = i
+            
+            # os.remove(self.config.model_dir / ('temporary' + str(best_model)))
+            # torch.save({'epoch': str(i), 'state_dict': model.state_dict()}, self.config.model_dir / ('temporary' + str(i)))
 
+        #best_model = int(self.config.num_train_epochs) - 1  
         # Save a trained model and the associated configuration
-        checkpoint = torch.load(self.config.model_dir / ('temporary' + str(best_model)))
-        model.load_state_dict(checkpoint['state_dict'])
+        # checkpoint = torch.load(self.config.model_dir / ('temporary' + str(best_model)))
+        # model.load_state_dict(checkpoint['state_dict'])
         model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
         output_model_file = os.path.join(self.config.model_dir, WEIGHTS_NAME)
         torch.save(model_to_save.state_dict(), output_model_file)
         output_config_file = os.path.join(self.config.model_dir, CONFIG_NAME)
         with open(output_config_file, 'w') as f:
             f.write(model_to_save.config.to_json_string())
-        os.remove(self.config.model_dir / ('temporary' + str(best_model)))
+        # os.remove(self.config.model_dir / ('temporary' + str(best_model)))
         return model
 
     def evaluate(self, model, examples):
@@ -617,9 +655,9 @@ def predict(text, model, write_to_csv=False, path=None, use_gpu=False, gpu_name=
         all_token_type_ids = torch.tensor([f.token_type_ids for f in features], dtype=torch.long).to(device)
 
         with torch.no_grad():
-            model     = model.to(device)
+            model  = model.to(device)
 
-            logits = model(all_input_ids, all_attention_mask, all_token_type_ids)[0]
+            logits = model(all_input_ids, all_attention_mask, all_token_type_ids)[0] #(bs,64), (bs,64), (bs,64)
             logging.info(logits)
             logits = softmax(np.array(logits.cpu()))
             sentiment_score = pd.Series(logits[:, 0] - logits[:, 1])

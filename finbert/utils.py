@@ -13,6 +13,8 @@ import torch
 import numpy as np
 import logging
 
+import json
+
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
@@ -93,9 +95,22 @@ class FinSentProcessor(DataProcessor):
             Name of the .csv file to be loaded.
         """
         return self._create_examples(self._read_tsv(os.path.join(data_dir, (phase + ".csv"))), phase)
+    
+    def get_examples_json(self, data_dir, phase):
+        """
+        Get examples from the data directory.
+
+        Parameters
+        ----------
+        data_dir: str
+            Path for the data directory.
+        phase: str
+            Name of the .csv file to be loaded.
+        """
+        return self._create_examples_json(json.load(open(os.path.join(data_dir, (phase + ".json")),'r')), phase)
 
     def get_labels(self):
-        return ["positive", "negative", "neutral"]
+        return ["negative", "neutral", "positive"]
 
     def _create_examples(self, lines, set_type):
         """Creates examples for the training and dev sets."""
@@ -108,6 +123,23 @@ class FinSentProcessor(DataProcessor):
             label = line[2]
             try:
                 agree = line[3]
+            except:
+                agree = None
+            examples.append(
+                InputExample(guid=guid, text=text, label=label, agree=agree))
+        return examples
+    
+    def _create_examples_json(self, lines, set_type):
+        """Creates examples for the training and dev sets."""
+        examples = []
+        for (i, line) in enumerate(lines):
+            # if i == 0:
+            #     continue
+            guid = "%s-%s" % (set_type, str(i))
+            text = line["sentence"]
+            label = line["label"] 
+            try:
+                agree = line["agree"]
             except:
                 agree = None
             examples.append(
@@ -171,7 +203,9 @@ def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer
         assert len(token_type_ids) == max_seq_length
 
         if mode == 'classification':
-            label_id = label_map[example.label]
+            if type(example.label) == int:
+                label_id = example.label
+            else: label_id = label_map[example.label]
         elif mode == 'regression':
             label_id = float(example.label)
         else:

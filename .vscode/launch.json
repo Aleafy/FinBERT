@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "inference.py",
+            "type": "python",
+            "request": "launch",
+            "program": "./finbert_inference.py",
+            //"args": ["--text_path", "test.txt", "--output_dir", "output", "--model_path", "models/classifier_model/finbert-sentiment"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "train.py",
+            "type": "python",
+            "request": "launch",
+            "program": "./finbert_training.py",
+            //"args": ["--text_path", "test.txt", "--output_dir", "output", "--model_path", "models/classifier_model/finbert-sentiment"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "predict.py",
+            "type": "python",
+            "request": "launch",
+            "program": "predict.py",
+            "args": ["--text_path", "test.txt", "--output_dir", "output", "--model_path", "models/classifier_model/finbert-sentiment"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
